@@ -119,7 +119,3 @@ module.exports = function (keywords, callback){
 
     })
 };
-
-// get_stock('170331');
-// get_stock('170318');
-// seek('spider web');
